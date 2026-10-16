@@ -1,0 +1,21 @@
+*.exe
+*.o
+*.obj
+*.a
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.dsym/
+main
+
+# IDE and local workspace settings
+.vscode/
+*.code-workspace
+.idea/
+.vs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
